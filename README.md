@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Chahal</h1>
-<h3 align="center">MERN Stack Developer | Project Intern @ TCS | Backend & System Design Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Intern At Speed Chain IO | Backend & System Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manan-Chahal&label=Profile%20Views&color=0e75b6&style=flat" />
